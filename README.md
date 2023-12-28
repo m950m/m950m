@@ -13,8 +13,8 @@
 </p> 
 
 
-- 🏢 I'm an ALX Software Engineer student
-- 👨‍💻 As an ALX student, I constantly learn and explore new technologies to improve my skills.
+- 🏢 I'm an NLP student
+- 👨‍💻 As an NLP student, I constantly learn and explore new technologies to improve my skills.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
